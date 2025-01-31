@@ -15,6 +15,9 @@
 
   ### 🛠️ Sub skills
 
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white">
+  <img src="https://img.shields.io/badge/Cypress-69D3A7?style=flat&logo=cypress&logoColor=white">
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
